@@ -34,7 +34,7 @@ export default function Gallery() {
           {/* Profile Picture */}
           <div className="w-28 h-28 sm:w-40 sm:h-40 rounded-full p-1 bg-gradient-to-tr from-vaapty-pink via-vaapty-orange to-vaapty-pink shrink-0 shadow-[0_0_30px_rgba(223,22,89,0.3)]">
             <div className="w-full h-full rounded-full border-[6px] border-[#0A0A0C] bg-white/5 flex items-center justify-center overflow-hidden backdrop-blur-sm p-3">
-              <img src="/logovapt.png" alt="Vaapty Passo Fundo Logo" className="w-full h-full object-contain" />
+              <img src="/vaptlogo.png" alt="Vaapty Passo Fundo Logo" className="w-full h-full object-contain" />
             </div>
           </div>
 
