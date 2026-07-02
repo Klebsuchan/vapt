@@ -1,0 +1,6 @@
+{
+  "name": "Vaapty Passo Fundo",
+  "description": "Site institucional da Vaapty Passo Fundo - Venda seu carro de forma rápida, segura e sem burocracia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
